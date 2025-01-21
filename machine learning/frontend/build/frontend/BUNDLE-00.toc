@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/kanishk/Desktop/Internship /machine learning/frontend/dist/frontend',
+   'EXECUTABLE')],)
